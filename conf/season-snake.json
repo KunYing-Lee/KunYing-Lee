@@ -6,63 +6,6 @@
   "strongColor": "#111133",
   "weakColor": "gray",
   "radarColor": "#47a042",
-  "chartLayout": "contrib_only",
-  "infoPanes": [
-    {
-      "title": "PROFILE.MD",
-      "x": 585,
-      "y": 40,
-      "width": 650,
-      "height": 352,
-      "paddingX": 35,
-      "paddingY": 50,
-      "titleFontSize": 17,
-      "header": "Kun-Ying (Aaron) Lee",
-      "headerAlign": "center",
-      "headerFontSize": 40,
-      "headerLineHeight": 40,
-      "headerGap": 10,
-      "subtitle": "Taiwanese CS Undergraduate\n @ **Tsinghua University**",
-      "subtitleAlign": "center",
-      "subtitleFontSize": 24,
-      "subtitleLineHeight": 27,
-      "subtitleGap": 15,
-      "bodyFontSize": 24,
-      "bodyLineHeight": 40,
-      "bodyWrapWidthRatio": 0.45,
-      "typingAnimation": {
-        "enabled": true,
-        "startDelay": 0.4,
-        "charDuration": 0.05,
-        "linePause": 0.28,
-        "cursorColor": "#111133",
-        "cursorWidth": 1.6
-      },
-      "body": "I am currently a research intern @ **MARS Lab**.\nI am a member of the **TH-MOS** (Tsinghua Master of Soccer) robot soccer team, working on Gait Control algorithms."
-    },
-    {
-      "title": "INTERESTS.MD",
-      "x": 48,
-      "y": 592,
-      "width": 550,
-      "height": 222,
-      "paddingX": 35,
-      "paddingY": 42,
-      "titleFontSize": 17,
-      "bodyFontSize": 24,
-      "bodyLineHeight": 40,
-      "bodyWrapWidthRatio": 0.45,
-      "typingAnimation": {
-        "enabled": true,
-        "startDelay": 1.4,
-        "charDuration": 0.045,
-        "linePause": 0.24,
-        "cursorColor": "#111133",
-        "cursorWidth": 1.6
-      },
-      "body": "I am a passionate pianist and a member of the Tsinghua University **Clavier Team**. I also enjoy playing **frisbee** with the CS department team."
-    }
-  ],
   "growingAnimation": true,
   "contribColors1": [
     "#efefef",
