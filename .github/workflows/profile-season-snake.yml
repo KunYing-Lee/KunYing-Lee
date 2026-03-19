@@ -76,7 +76,7 @@ jobs:
           JSON
 
       - name: Generate season-snake SVG
-        uses: KunYing-Lee/github-profile-3d-contrib@main
+        uses: KunYing-Lee/GtiHub-Profile-3D@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
