@@ -45,7 +45,7 @@ jobs:
                 "headerFontSize": 40,
                 "headerLineHeight": 40,
                 "headerGap": 10,
-                "subtitle": "Undergraduate @ IIIS, Tsinghua University",
+                "subtitle": "Undergrad @ IIIS, Tsinghua University",
                 "subtitleAlign": "center",
                 "subtitleFontSize": 24,
                 "subtitleLineHeight": 27,
