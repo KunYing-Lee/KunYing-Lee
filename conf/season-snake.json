@@ -9,7 +9,7 @@
   "chartLayout": "contrib_only",
   "infoPanes": [
     {
-      "title": "PROFILE.MD",
+      "title": "PROFILE.md",
       "x": 585,
       "y": 40,
       "width": 650,
@@ -22,7 +22,7 @@
       "headerFontSize": 40,
       "headerLineHeight": 40,
       "headerGap": 10,
-      "subtitle": "Taiwanese CS Undergraduate\n @ **Tsinghua University**",
+      "subtitle": "Undergraduate @ IIIS, Tsinghua University",
       "subtitleAlign": "center",
       "subtitleFontSize": 24,
       "subtitleLineHeight": 27,
@@ -41,7 +41,7 @@
       "body": "I am currently a research intern @ **MARS Lab**.\nI am a member of the **TH-MOS** (Tsinghua Master of Soccer) robot soccer team, working on Gait Control algorithms."
     },
     {
-      "title": "INTERESTS.MD",
+      "title": "INTERESTS.md",
       "x": 48,
       "y": 592,
       "width": 550,
@@ -60,7 +60,7 @@
         "cursorColor": "#111133",
         "cursorWidth": 1.6
       },
-      "body": "I am a passionate pianist and a member of the Tsinghua University **Clavier Team**. I also enjoy playing **frisbee** with the CS department team."
+      "body": "I am a passionate pianist and a member of the Tsinghua University **Clavier Team**. I also enjoy playing **frisbee**."
     }
   ],
   "growingAnimation": true,
